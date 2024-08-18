@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, welcome to my Github 👋
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsoltz&show_icons=true&theme=transparent)
 
