@@ -36,12 +36,6 @@ class Gabriel:
 
 ---
 
-<div align="center">
-  <sub>⚡ Automating the boring stuff since forever &nbsp;·&nbsp; Rank A and climbing 📈</sub>
-</div>
-
----
-
 ### 🚀 Some of the projects i'm working on
 
 | Project | Description | Stars |
