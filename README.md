@@ -21,6 +21,19 @@ class Gabriel:
 
 ---
 
+### 🚀 Some of the projects i'm working on
+
+| Project | Description | Stars |
+|---|---|---|
+| [metahub](https://github.com/gabrielsoltz/metahub) | Automated security findings enrichment and vulnerability impact evaluation | ⭐ 177 |
+| [clauditor](https://github.com/gabrielsoltz/clauditor) | Security configuration scanner for Claude Code | ⭐ 44 |
+| [aws-arn](https://github.com/gabrielsoltz/aws-arn) | Python library to parse and work with AWS ARNs programmatically | ⭐ 29 |
+| [ess-gitlab](https://github.com/gabrielsoltz/ess-gitlab) | Scanner for GitLab security misconfigurations | ⭐ 18 |
+| [rawsec](https://github.com/gabrielsoltz/rawsec) | AWS resource inventory and multi-scanner for security purposes | ⭐ 5 |
+| [am-i-next](https://github.com/gabrielsoltz/am-i-next) | Scan your machine for credentials exposed to supply-chain attacks — before attackers do | ⭐ 2 |
+
+---
+
 ### 📊 GitHub Stats
 
 <table>
