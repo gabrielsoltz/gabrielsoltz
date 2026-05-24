@@ -10,10 +10,10 @@
 
 ```python
 class Gabriel:
-    role      = "Security Engineer"
-    from      = "Buenos Aires, Argentina 🇦🇷"
-    based_in  = "Berlin, Germany 🇩🇪"
-    interests = ["Cloud Security", "DevOps", "Automation", "Open Source", "Skydiving", "Music"]
+    _role      = "Security Engineer"
+    _from      = "Buenos Aires, Argentina 🇦🇷"
+    _based_in  = "Berlin, Germany 🇩🇪"
+    _interests = ["Cloud Security", "DevOps", "Automation", "Open Source", "Skydiving", "Music"]
 
     def say_hi(self):
         return "Thanks for stopping by! Let's build something awesome 🚀"
@@ -25,12 +25,12 @@ class Gabriel:
 
 | Project | Description | Stars |
 |---|---|---|
-| [metahub](https://github.com/gabrielsoltz/metahub) | Automated security findings enrichment and vulnerability impact evaluation | ⭐ 177 |
-| [clauditor](https://github.com/gabrielsoltz/clauditor) | Security configuration scanner for Claude Code | ⭐ 44 |
-| [aws-arn](https://github.com/gabrielsoltz/aws-arn) | Python library to parse and work with AWS ARNs programmatically | ⭐ 29 |
-| [ess-gitlab](https://github.com/gabrielsoltz/ess-gitlab) | Scanner for GitLab security misconfigurations | ⭐ 18 |
-| [rawsec](https://github.com/gabrielsoltz/rawsec) | AWS resource inventory and multi-scanner for security purposes | ⭐ 5 |
-| [am-i-next](https://github.com/gabrielsoltz/am-i-next) | Scan your machine for credentials exposed to supply-chain attacks — before attackers do | ⭐ 2 |
+| [metahub](https://github.com/gabrielsoltz/metahub) | Automated security findings enrichment and vulnerability impact evaluation | ![Stars](https://img.shields.io/github/stars/gabrielsoltz/metahub?style=flat-square&color=gold&logo=github) |
+| [clauditor](https://github.com/gabrielsoltz/clauditor) | Security configuration scanner for Claude Code | ![Stars](https://img.shields.io/github/stars/gabrielsoltz/clauditor?style=flat-square&color=gold&logo=github) |
+| [aws-arn](https://github.com/gabrielsoltz/aws-arn) | Python library to parse and work with AWS ARNs programmatically | ![Stars](https://img.shields.io/github/stars/gabrielsoltz/aws-arn?style=flat-square&color=gold&logo=github) |
+| [ess-gitlab](https://github.com/gabrielsoltz/ess-gitlab) | Scanner for GitLab security misconfigurations | ![Stars](https://img.shields.io/github/stars/gabrielsoltz/ess-gitlab?style=flat-square&color=gold&logo=github) |
+| [rawsec](https://github.com/gabrielsoltz/rawsec) | AWS resource inventory and multi-scanner for security purposes | ![Stars](https://img.shields.io/github/stars/gabrielsoltz/rawsec?style=flat-square&color=gold&logo=github) |
+| [am-i-next](https://github.com/gabrielsoltz/am-i-next) | Scan your machine for credentials exposed to supply-chain attacks — before attackers do | ![Stars](https://img.shields.io/github/stars/gabrielsoltz/am-i-next?style=flat-square&color=gold&logo=github) |
 
 ---
 
