@@ -2,6 +2,8 @@
 
 ## Hi there 👋 I'm Gabriel
 
+🇦🇷 → 🇩🇪
+
 </div>
 
 ---
@@ -11,6 +13,8 @@
 ```python
 class Gabriel:
     role      = "Security Engineer"
+    from_     = "Buenos Aires, Argentina 🇦🇷"
+    based_in  = "Berlin, Germany 🇩🇪"
     interests = ["Cloud Security", "DevOps", "Automation", "Open Source", "Skydiving", "Music"]
 
     def say_hi(self):
