@@ -25,12 +25,12 @@ class Gabriel:
 
 | Project | Description | Stars |
 |---|---|---|
-| [metahub](https://github.com/gabrielsoltz/metahub) | Automated security findings enrichment and vulnerability impact evaluation | ![Stars](https://img.shields.io/github/stars/gabrielsoltz/metahub?style=flat-square&color=gold&logo=github) |
-| [clauditor](https://github.com/gabrielsoltz/clauditor) | Security configuration scanner for Claude Code | ![Stars](https://img.shields.io/github/stars/gabrielsoltz/clauditor?style=flat-square&color=gold&logo=github) |
-| [aws-arn](https://github.com/gabrielsoltz/aws-arn) | Python library to parse and work with AWS ARNs programmatically | ![Stars](https://img.shields.io/github/stars/gabrielsoltz/aws-arn?style=flat-square&color=gold&logo=github) |
-| [ess-gitlab](https://github.com/gabrielsoltz/ess-gitlab) | Scanner for GitLab security misconfigurations | ![Stars](https://img.shields.io/github/stars/gabrielsoltz/ess-gitlab?style=flat-square&color=gold&logo=github) |
-| [rawsec](https://github.com/gabrielsoltz/rawsec) | AWS resource inventory and multi-scanner for security purposes | ![Stars](https://img.shields.io/github/stars/gabrielsoltz/rawsec?style=flat-square&color=gold&logo=github) |
-| [am-i-next](https://github.com/gabrielsoltz/am-i-next) | Scan your machine for credentials exposed to supply-chain attacks — before attackers do | ![Stars](https://img.shields.io/github/stars/gabrielsoltz/am-i-next?style=flat-square&color=gold&logo=github) |
+| [metahub](https://github.com/gabrielsoltz/metahub) | Automated security findings enrichment and vulnerability impact evaluation | ![Stars](https://img.shields.io/github/stars/gabrielsoltz/metahub?style=social) |
+| [clauditor](https://github.com/gabrielsoltz/clauditor) | Security configuration scanner for Claude Code | ![Stars](https://img.shields.io/github/stars/gabrielsoltz/clauditor?style=social) |
+| [aws-arn](https://github.com/gabrielsoltz/aws-arn) | Python library to parse and work with AWS ARNs programmatically | ![Stars](https://img.shields.io/github/stars/gabrielsoltz/aws-arn?style=social) |
+| [ess-gitlab](https://github.com/gabrielsoltz/ess-gitlab) | Scanner for GitLab security misconfigurations | ![Stars](https://img.shields.io/github/stars/gabrielsoltz/ess-gitlab?style=social) |
+| [rawsec](https://github.com/gabrielsoltz/rawsec) | AWS resource inventory and multi-scanner for security purposes | ![Stars](https://img.shields.io/github/stars/gabrielsoltz/rawsec?style=social) |
+| [am-i-next](https://github.com/gabrielsoltz/am-i-next) | Scan your machine for credentials exposed to supply-chain attacks — before attackers do | ![Stars](https://img.shields.io/github/stars/gabrielsoltz/am-i-next?style=social) |
 
 ---
 
